@@ -1,0 +1,11 @@
+product_id,brand,therapeutic_category,list_price
+101,Cardiora-A,Cardiovascular,450
+102,Cardiora-B,Cardiovascular,620
+103,Glycora-A,Diabetes,320
+104,Glycora-B,Diabetes,510
+105,Respira-A,Respiratory,280
+106,Respira-B,Respiratory,390
+107,Neurovia-A,Neurology,710
+108,Neurovia-B,Neurology,830
+109,Immunora-A,Immunology,560
+110,Immunora-B,Immunology,770

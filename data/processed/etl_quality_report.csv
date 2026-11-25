@@ -1,0 +1,2 @@
+raw_rows,duplicate_ids_removed,missing_or_invalid_fields,invalid_quantity_or_price,unknown_product,unknown_territory,unknown_rep_or_mismatch,outside_2025,rejected_after_dedup,valid_rows_loaded,reconciles
+15050,10,5,20,10,0,5,0,40,15000,True

@@ -1,0 +1,21 @@
+territory_id,region,city,transactions,actual_revenue,target_revenue,variance_inr,attainment_pct,performance_status
+1,North,Delhi,774,3821581.15,3969427.98,-147846.83,96.28,Below Target
+2,North,Chandigarh,682,3321513.94,3403637.46,-82123.52,97.59,Below Target
+3,North,Jaipur,770,3829959.24,3955479.11,-125519.87,96.83,Below Target
+4,North,Lucknow,752,3694142.66,3787050.37,-92907.71,97.55,Below Target
+5,North,Dehradun,788,3711108.64,3765907.45,-54798.81,98.54,Below Target
+6,West,Mumbai,721,3498196.45,3697764.10,-199567.65,94.60,Below Target
+7,West,Pune,760,3753360.60,3882339.68,-128979.08,96.68,Below Target
+8,West,Ahmedabad,730,3595610.32,3711325.47,-115715.15,96.88,Below Target
+9,West,Surat,783,3794805.91,3816646.05,-21840.14,99.43,Below Target
+10,West,Nagpur,693,3381583.20,3424729.21,-43146.01,98.74,Below Target
+11,South,Bengaluru,748,3710809.35,3770660.34,-59850.99,98.41,Below Target
+12,South,Chennai,730,3425867.23,3376559.39,49307.84,101.46,Target Achieved
+13,South,Hyderabad,767,3822944.81,3805898.98,17045.83,100.45,Target Achieved
+14,South,Kochi,785,3727397.00,3909582.55,-182185.55,95.34,Below Target
+15,South,Coimbatore,756,3855075.52,4054827.12,-199751.60,95.07,Below Target
+16,East,Kolkata,790,3835707.06,3963002.23,-127295.17,96.79,Below Target
+17,East,Patna,707,3444514.35,3552005.61,-107491.26,96.97,Below Target
+18,East,Ranchi,742,3679456.65,3754532.13,-75075.48,98.00,Below Target
+19,East,Bhubaneswar,754,3490792.58,3669225.58,-178433.00,95.14,Below Target
+20,East,Guwahati,768,3815240.67,3947013.04,-131772.37,96.66,Below Target

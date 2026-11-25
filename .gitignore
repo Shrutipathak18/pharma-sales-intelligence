@@ -1,0 +1,21 @@
+# Environment variables and passwords
+.env
+.env.*
+
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor and system files
+.vscode/
+.DS_Store
