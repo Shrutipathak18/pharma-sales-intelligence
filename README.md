@@ -1,6 +1,6 @@
 # Pharma Sales Intelligence & ETL Analytics System
 
-An entry-level, interview-ready **ZS BTSA-aligned practice project** using Python, Pandas, SQL, PostgreSQL and Power BI.
+
 
 > **All data is SYNTHETIC** and reproducibly generated. There are no real pharma-company sales records and no confidential information.
 
@@ -20,7 +20,7 @@ Synthetic source files -> Python + Pandas ETL -> SQLite/PostgreSQL
 ## Folder structure
 
 ```text
-pharma_sales_btsa_starter/
+pharma_sales_starter/
   .env.example
   requirements.txt
   README.md
